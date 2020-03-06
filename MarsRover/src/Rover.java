@@ -64,7 +64,7 @@ public class Rover {
     }
 
 
-    public void printOurLocation() {
+    public void printLocation() {
         String temp;
         if (this.route == N) {
             temp = "N";
