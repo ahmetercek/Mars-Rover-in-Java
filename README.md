@@ -1,1 +1,1 @@
-# Mars-Rover-in-Java
+# Mars Rover in Java
